@@ -10,6 +10,9 @@ It's an experimental video tool for VJs and experimental video artists that I th
                        - A dirty mixer for creating distortion and disruption as your transition between two video inputs
                        - A passive sharpener to heighten the edges of your signal (a classic effect)
                        - A loop out/bypass function to switch from direct feedback to feedback with effects instantly
+                       
+BUILD GUIDE: https://docs.google.com/document/d/1K-kYqIZa-mxv5eNUbX9vSpcRY2loV5x1ImC7kZpjctI/edit?usp=sharing
 
-LINK TO THE KICKSTARTER:
-https://www.kickstarter.com/projects/synth-bt/video-xchng-expand-your-experimental-video-rig/description
+BOM: https://docs.google.com/spreadsheets/d/1kL9SzumbGBxzcogHdAwO_ZjvOIKyRkfr3qArjTiD70w/edit?usp=sharing
+
+LINK TO THE KICKSTARTER: https://www.kickstarter.com/projects/synth-bt/video-xchng-expand-your-experimental-video-rig/description
