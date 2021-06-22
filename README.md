@@ -11,6 +11,8 @@ It's an experimental video tool for VJs and experimental video artists that I th
                        - A passive sharpener to heighten the edges of your signal (a classic effect)
                        - A loop out/bypass function to switch from direct feedback to feedback with effects instantly
                        
+MANUAL: https://docs.google.com/document/d/13PXkH_QpwMR1RbXq8WSNVv7c3W7H49q0wkpC9X-2hgI/edit?usp=sharing
+
 BUILD GUIDE: https://docs.google.com/document/d/1K-kYqIZa-mxv5eNUbX9vSpcRY2loV5x1ImC7kZpjctI/edit?usp=sharing
 
 BOM: https://docs.google.com/spreadsheets/d/1kL9SzumbGBxzcogHdAwO_ZjvOIKyRkfr3qArjTiD70w/edit?usp=sharing
